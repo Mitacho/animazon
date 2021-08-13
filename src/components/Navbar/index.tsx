@@ -26,7 +26,7 @@ export default function Navbar(props: Props): JSX.Element {
       <ResponsiveNav>
         <List>
           <ListItem>
-            <Anchor href="/">
+            <Anchor href="/animazon/">
               <Title>
                 animazon.com
               </Title>
@@ -48,7 +48,7 @@ export default function Navbar(props: Props): JSX.Element {
       <Nav>
         <List>
           <ListItem>
-            <Anchor href="/">
+            <Anchor href="/animazon/">
               <Title>
                 animazon.com
               </Title>
