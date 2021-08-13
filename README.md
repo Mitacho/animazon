@@ -8,7 +8,14 @@
 
 Animazon is a website built for studying purposes. That website consumes a [GraphQL API](https://github.com/Mitacho/animazon-graphql)
 
-You can check the final result in this link <https://mitacho.github.io/animazon/>
+You can check the final result at this link <https://mitacho.github.io/animazon/>
+
+## Technologies behind this website
+
+- Reactjs
+- TypeScript
+- Styled Components
+- GraphQL ( @apollo/client )
 
 ## Banner
 
