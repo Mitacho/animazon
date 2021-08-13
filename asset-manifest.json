@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/animazon/static/js/main.fd82d50c.chunk.js",
-    "main.js.map": "/animazon/static/js/main.fd82d50c.chunk.js.map",
+    "main.js": "/animazon/static/js/main.b8a70cb2.chunk.js",
+    "main.js.map": "/animazon/static/js/main.b8a70cb2.chunk.js.map",
     "runtime-main.js": "/animazon/static/js/runtime-main.79945f46.js",
     "runtime-main.js.map": "/animazon/static/js/runtime-main.79945f46.js.map",
-    "static/js/2.2d1acc61.chunk.js": "/animazon/static/js/2.2d1acc61.chunk.js",
-    "static/js/2.2d1acc61.chunk.js.map": "/animazon/static/js/2.2d1acc61.chunk.js.map",
+    "static/js/2.98baa5b2.chunk.js": "/animazon/static/js/2.98baa5b2.chunk.js",
+    "static/js/2.98baa5b2.chunk.js.map": "/animazon/static/js/2.98baa5b2.chunk.js.map",
     "index.html": "/animazon/index.html",
-    "static/js/2.2d1acc61.chunk.js.LICENSE.txt": "/animazon/static/js/2.2d1acc61.chunk.js.LICENSE.txt",
+    "static/js/2.98baa5b2.chunk.js.LICENSE.txt": "/animazon/static/js/2.98baa5b2.chunk.js.LICENSE.txt",
     "static/media/cat.5fd91d02.jpg": "/animazon/static/media/cat.5fd91d02.jpg",
     "static/media/cham.bdb8fdfa.jpg": "/animazon/static/media/cham.bdb8fdfa.jpg",
     "static/media/dockey.20c54794.jpg": "/animazon/static/media/dockey.20c54794.jpg",
@@ -25,7 +25,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.79945f46.js",
-    "static/js/2.2d1acc61.chunk.js",
-    "static/js/main.fd82d50c.chunk.js"
+    "static/js/2.98baa5b2.chunk.js",
+    "static/js/main.b8a70cb2.chunk.js"
   ]
 }
