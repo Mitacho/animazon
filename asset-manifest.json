@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/animazon/static/js/main.4520fad1.chunk.js",
-    "main.js.map": "/animazon/static/js/main.4520fad1.chunk.js.map",
+    "main.js": "/animazon/static/js/main.fd82d50c.chunk.js",
+    "main.js.map": "/animazon/static/js/main.fd82d50c.chunk.js.map",
     "runtime-main.js": "/animazon/static/js/runtime-main.79945f46.js",
     "runtime-main.js.map": "/animazon/static/js/runtime-main.79945f46.js.map",
     "static/js/2.2d1acc61.chunk.js": "/animazon/static/js/2.2d1acc61.chunk.js",
@@ -26,6 +26,6 @@
   "entrypoints": [
     "static/js/runtime-main.79945f46.js",
     "static/js/2.2d1acc61.chunk.js",
-    "static/js/main.4520fad1.chunk.js"
+    "static/js/main.fd82d50c.chunk.js"
   ]
 }
