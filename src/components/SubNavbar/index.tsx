@@ -20,7 +20,7 @@ export default function SubNavbar(props: Props): JSX.Element {
             <Anchor
               target="_blank"
               rel="noopener noreferrer"
-              href="/"
+              href="https://github.com/Mitacho/animazon"
               title="See the GitHub repository on a new tab"
             >
               <AnchorHeading>
