@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.js": "/animazon/static/js/main.4520fad1.chunk.js",
+    "main.js.map": "/animazon/static/js/main.4520fad1.chunk.js.map",
+    "runtime-main.js": "/animazon/static/js/runtime-main.79945f46.js",
+    "runtime-main.js.map": "/animazon/static/js/runtime-main.79945f46.js.map",
+    "static/js/2.2d1acc61.chunk.js": "/animazon/static/js/2.2d1acc61.chunk.js",
+    "static/js/2.2d1acc61.chunk.js.map": "/animazon/static/js/2.2d1acc61.chunk.js.map",
+    "index.html": "/animazon/index.html",
+    "static/js/2.2d1acc61.chunk.js.LICENSE.txt": "/animazon/static/js/2.2d1acc61.chunk.js.LICENSE.txt",
+    "static/media/cat.5fd91d02.jpg": "/animazon/static/media/cat.5fd91d02.jpg",
+    "static/media/cham.bdb8fdfa.jpg": "/animazon/static/media/cham.bdb8fdfa.jpg",
+    "static/media/dockey.20c54794.jpg": "/animazon/static/media/dockey.20c54794.jpg",
+    "static/media/dolphin.166d4f42.jpg": "/animazon/static/media/dolphin.166d4f42.jpg",
+    "static/media/ele.efdf8333.jpg": "/animazon/static/media/ele.efdf8333.jpg",
+    "static/media/gorilla.d8b54276.jpg": "/animazon/static/media/gorilla.d8b54276.jpg",
+    "static/media/horse.71170fb2.jpg": "/animazon/static/media/horse.71170fb2.jpg",
+    "static/media/kang.da4c3a11.jpg": "/animazon/static/media/kang.da4c3a11.jpg",
+    "static/media/lion2.7f164a15.jpg": "/animazon/static/media/lion2.7f164a15.jpg",
+    "static/media/ostrich.b08f8645.jpg": "/animazon/static/media/ostrich.b08f8645.jpg",
+    "static/media/penguin2.1e024446.jpg": "/animazon/static/media/penguin2.1e024446.jpg",
+    "static/media/rhino.ef630705.png": "/animazon/static/media/rhino.ef630705.png",
+    "static/media/stingray.97b9ddb4.jpg": "/animazon/static/media/stingray.97b9ddb4.jpg",
+    "static/media/tiger.382258ea.jpeg": "/animazon/static/media/tiger.382258ea.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.79945f46.js",
+    "static/js/2.2d1acc61.chunk.js",
+    "static/js/main.4520fad1.chunk.js"
+  ]
+}
